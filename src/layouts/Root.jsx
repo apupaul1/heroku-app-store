@@ -6,7 +6,7 @@ import Footer from '../components/shared/Footer/Footer';
 const Root = () => {
     return (
         <div>
-            <header className='sticky top-1 z-999'>
+            <header className='sticky top-0 z-999'>
                 <Navbar></Navbar>
             </header>
             <main className='min-h-screen'>

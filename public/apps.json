@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg",
+    "title": "Facebook – Connect & Share",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 1,
+    "description": "Facebook helps you stay connected with friends, family, and communities. Share updates, photos, and memories. Explore groups, events, and Marketplace all in one place. Express yourself and discover what's happening around the world.",
+    "size": 128,
+    "reviews": 154000000,
+    "ratingAvg": 4.2,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 14000000 },
+      { "name": "2 star", "count": 9000000 },
+      { "name": "3 star", "count": 12000000 },
+      { "name": "4 star", "count": 24000000 },
+      { "name": "5 star", "count": 95000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/4w6RP9dW/instagram.jpg",
+    "title": "Instagram – Capture & Inspire",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 2,
+    "description": "Share your visual stories via photos, reels, and stories. Follow creators, discover trends, and express yourself with creative tools. Engage with your audience through comments, likes, and DMs. Grow your profile and explore a global community.",
+    "size": 110,
+    "reviews": 120000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 9000000 },
+      { "name": "2 star", "count": 7000000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 74000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/dJHrStyb/tiktok.png",
+    "title": "TikTok – Real Short Videos",
+    "companyName": "ByteDance Ltd.",
+    "id": 3,
+    "description": "Create and watch short videos with music, filters, and effects. Discover trending challenges and creative content. Engage with a global audience and get inspired. Express your playful side in just seconds.",
+    "size": 95,
+    "reviews": 90000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 6000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 17000000 },
+      { "name": "5 star", "count": 55000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/CXRd1Vp/soptify.png",
+    "title": "Spotify – Music for Everyone",
+    "companyName": "Spotify AB",
+    "id": 4,
+    "description": "Stream millions of songs and podcasts on demand. Discover playlists for moods, genres, or moments. Download for offline listening and enjoy ad-free with premium. Connect across devices for seamless playback.",
+    "size": 120,
+    "reviews": 100000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 4500000 },
+      { "name": "3 star", "count": 7500000 },
+      { "name": "4 star", "count": 19000000 },
+      { "name": "5 star", "count": 64000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/ccDgYkkS/netflix.webp",
+    "title": "Netflix – Watch Anywhere",
+    "companyName": "Netflix, Inc.",
+    "id": 5,
+    "description": "Stream movies, TV series, and documentaries anytime. Download to watch offline when you’re on the go. Get personalized recommendations based on your tastes. Enjoy original content across genres and languages.",
+    "size": 250,
+    "reviews": 100000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 9000000 },
+      { "name": "2 star", "count": 7000000 },
+      { "name": "3 star", "count": 12000000 },
+      { "name": "4 star", "count": 21000000 },
+      { "name": "5 star", "count": 51000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/WWvrPLhr/youtube.jpg",
+    "title": "YouTube – Broadcast Yourself",
+    "companyName": "Google LLC",
+    "id": 6,
+    "description": "Watch, upload, and share videos on every topic imaginable. Subscribe to creators and build your community. Explore trending content tailored to your interests. Turn on notifications for the latest uploads.",
+    "size": 160,
+    "reviews": 120000000,
+    "ratingAvg": 4.6,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 7000000 },
+      { "name": "2 star", "count": 6000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 79000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/tptrtsYW/google-meet.png",
+    "title": "Google Meet – Secure Calls",
+    "companyName": "Google LLC",
+    "id": 7,
+    "description": "Join or host HD video meetings with ease. Share screens, chat, and record sessions. Integrated with Google Workspace for seamless collaboration. Enjoy live captions and strong security features.",
+    "size": 85,
+    "reviews": 40000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2500000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 8500000 },
+      { "name": "5 star", "count": 21000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/zVxM76gG/gmail.png",
+    "title": "Gmail – Email by Google",
+    "companyName": "Google LLC",
+    "id": 8,
+    "description": "Manage all your emails in one place with Gmail. Smart categorization keeps important messages front and center. Use Smart Compose and undo send to streamline your writing. Integrated with Drive and other Google tools.",
+    "size": 60,
+    "reviews": 95000000,
+    "ratingAvg": 4.5,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 7000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 16000000 },
+      { "name": "5 star", "count": 60000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/Q7fBVwjG/google-chrome.png",
+    "title": "Chrome – Browse Fast & Secure",
+    "companyName": "Google LLC",
+    "id": 9,
+    "description": "Access the web quickly with Chrome’s fast, secure browser. Sync bookmarks, history, and passwords across devices. Use incognito mode or extensions to tailor your experience. Built-in translation and safe browsing keep you protected.",
+    "size": 90,
+    "reviews": 150000000,
+    "ratingAvg": 4.6,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 8000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 9000000 },
+      { "name": "4 star", "count": 22000000 },
+      { "name": "5 star", "count": 106000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/ZRqfvhZz/zoom.png",
+    "title": "Zoom – Video Conferencing",
+    "companyName": "Zoom Video Communications, Inc.",
+    "id": 10,
+    "description": "Host or join video meetings, webinars, and virtual events from anywhere. Share your screen, chat, and record sessions. Works across devices and supports scheduling integration. Secure and scalable for teams big or small.",
+    "size": 95,
+    "reviews": 50000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2500000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 32500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/QFy76qjj/whatsapp.jpg",
+    "title": "WhatsApp – Simple. Secure.",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 11,
+    "description": "WhatsApp offers text, voice, and video messaging across devices with end-to-end encryption. Share photos, documents, and locations easily. Create group chats and broadcast messages with minimal fuss. Stay connected anywhere, anytime.",
+    "size": 85,
+    "reviews": 135000000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 8000000 },
+      { "name": "2 star", "count": 6000000 },
+      { "name": "3 star", "count": 9000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 92000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/WSrGpxQ/google-drive.jpg",
+    "title": "Google Drive – Save Your Files",
+    "companyName": "Google LLC",
+    "id": 12,
+    "description": "Store and access your files securely in the cloud. Share links with colleagues, collaborate in real time, and sync across devices. Use offline mode to work without internet. Integrated with Gmail, Docs, and other Google tools.",
+    "size": 70,
+    "reviews": 67000000,
+    "ratingAvg": 4.5,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 3500000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 11000000 },
+      { "name": "5 star", "count": 43500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/cKMHc41g/google-photos.png",
+    "title": "Google Photos ",
+    "companyName": "Google LLC",
+    "id": 13,
+    "description": "Automatically back up photos and videos and access them from any device. Use smart albums and AI search to find memories quickly. Edit images, create movies or collages, and share easily with friends and family.",
+    "size": 95,
+    "reviews": 60000000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3500000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 38500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/tMLMYjvg/google-map.png",
+    "title": "Google Maps ",
+    "companyName": "Google LLC",
+    "id": 14,
+    "description": "Get real-time GPS navigation, traffic updates, and directions. Explore local businesses, restaurants, and landmarks. Save your favorite places and share locations. Use offline maps to travel without worry.",
+    "size": 75,
+    "reviews": 105000000,
+    "ratingAvg": 4.7,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 16000000 },
+      { "name": "5 star", "count": 75000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/zhwgRVX1/linkedin.jpg",
+    "title": "LinkedIn – Connect to Chance",
+    "companyName": "Microsoft Corporation",
+    "id": 15,
+    "description": "Build your professional identity, connect with colleagues, and grow your network. Find jobs, share expertise, and follow industry insights. Showcase your skills and achievements for opportunities worldwide.",
+    "size": 70,
+    "reviews": 40000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2500000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 9000000 },
+      { "name": "5 star", "count": 21500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/ynCBtST2/adobe-photoshop.png",
+    "title": "Adobe Photoshop – Create & Edit",
+    "companyName": "Adobe Inc.",
+    "id": 16,
+    "description": "Edit photos with professional tools, layers, and effects. Remove objects, adjust colors, and create composites. Work seamlessly between desktop and mobile. Export in high-resolution formats for print or web.",
+    "size": 180,
+    "reviews": 22000000,
+    "ratingAvg": 4.6,
+    "downloads": 200000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 11000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/Y7NW8J9R/telegram.jpg",
+    "title": "Telegram – Fast & Secure Chat",
+    "companyName": "Telegram FZ-LLC",
+    "id": 17,
+    "description": "Send messages, photos, videos, and files securely with encryption. Create large groups and channels to share with many people. Use bots, polls, and advanced tools for engagement. Synced across devices with speed in mind.",
+    "size": 60,
+    "reviews": 35000000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 2100000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 25500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/sdHGgXw3/reddit.png",
+    "title": "Reddit – Dive into Anything",
+    "companyName": "Reddit, Inc.",
+    "id": 18,
+    "description": "Join discussions, share stories, and explore communities on any topic. Upvote what you love, follow your interests, and customize your feed. Post text, links, images or video. Be part of a community-driven platform.",
+    "size": 55,
+    "reviews": 42000000,
+    "ratingAvg": 4.2,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 1800000 },
+      { "name": "2 star", "count": 1400000 },
+      { "name": "3 star", "count": 2100000 },
+      { "name": "4 star", "count": 5200000 },
+      { "name": "5 star", "count": 31500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/fV797rGc/dropbox.png",
+    "title": "Dropbox – Your Cloud Files",
+    "companyName": "Dropbox, Inc.",
+    "id": 19,
+    "description": "Save and share your files securely in the cloud. Access everything from any device and offline. Collaborate using shared folders and links. Automatic backup and version history keep you in control.",
+    "size": 75,
+    "reviews": 21000000,
+    "ratingAvg": 4.4,
+    "downloads": 200000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 3200000 },
+      { "name": "5 star", "count": 16200000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/39kY3vHK/whatsapp-business.png",
+    "title": "WhatsApp Business ",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 20,
+    "description": "A version of WhatsApp tailored for businesses, letting you interact with customers professionally. Automate messages, manage catalogs, and respond with quick replies. Separate business and personal profiles with ease. Secure communications powered by end-to-end encryption.",
+    "size": 90,
+    "reviews": 12000000,
+    "ratingAvg": 4.5,
+    "downloads": 200000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 8700000 }
+    ]
+  }
+]
