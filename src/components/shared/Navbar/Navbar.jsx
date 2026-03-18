@@ -11,7 +11,7 @@ const Navbar = () => {
                 <div className="navbar w-11/12 mx-auto mb-3">
                     <div className="navbar-start">
                         <div className="dropdown">
-                            <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
+                            <div tabIndex={0} role="button" className=" mr-5 lg:hidden">
                                 <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"> <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h8m-8 6h16" /> </svg>
                             </div>
                             <ul
@@ -30,8 +30,8 @@ const Navbar = () => {
                         </div>
                         <Link to={'/'}>
                             <div className='flex gap-1 items-center'>
-                                <img src={logo} alt="" className='w-10' />
-                                <h1 className=" text-xl font-bold bg-clip-text text-transparent bg-linear-to-br from-[#632EE3] to-[#9F62F2]">HERO.IO</h1>
+                                <img src={logo} alt="" className='w-6 md:w-10' />
+                                <h1 className="text-md md:text-xl font-bold bg-clip-text text-transparent bg-linear-to-br from-[#632EE3] to-[#9F62F2]">HERO.IO</h1>
                             </div>
                         </Link>
                     </div>
@@ -50,7 +50,7 @@ const Navbar = () => {
                     </div>
                     <div className="navbar-end">
                         <Link to={'https://github.com/apurbadhar509'}>
-                            <button className="btn rounded-lg px-8 font-semibold text-[#FFFFFF] bg-linear-to-br from-[#632EE3] to-[#9F62F2] hover:bg-red-500"><FaGithub size={20} />Contribute</button></Link>
+                            <button className="btn btn-sm md:btn-md rounded-lg px-8 font-semibold text-[#FFFFFF] bg-linear-to-br from-[#632EE3] to-[#9F62F2] hover:bg-red-500"><FaGithub size={20} />Contribute</button></Link>
                     </div>
                 </div>
             </div>

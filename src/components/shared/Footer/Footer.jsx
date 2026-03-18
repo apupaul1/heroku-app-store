@@ -5,7 +5,7 @@ import logo from '/logo.png'
 const Footer = () => {
     return (
         <div>
-            <footer className="footer sm:footer-horizontal bg-[#001931] text-neutral-content p-10 px-16 mt-18 flex justify-between">
+            <footer className="footer sm:footer-horizontal bg-[#001931] text-neutral-content p-10 px-16 flex justify-between">
                 <aside className='flex items-center'>
                     <img className='w-10' src={logo} alt="" />
                     <h1 className='text-lg font-semibold'>HERO.IO</h1>
