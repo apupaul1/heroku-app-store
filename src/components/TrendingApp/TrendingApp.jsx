@@ -1,5 +1,5 @@
 import React from 'react';
-import { useLoaderData } from 'react-router';
+import { Link, useLoaderData } from 'react-router';
 import AppCard from './AppCard';
 
 const TrendingApp = () => {
@@ -17,7 +17,7 @@ const TrendingApp = () => {
                     {finalApps.map(app => <AppCard key={app.id} app={app}></AppCard>)}
                 </div>
                 <div className='text-center'>
-                    <button className='btn mt-8 text-[#FFFFFF] bg-linear-to-br from-[#632EE3] to-[#9F62F2]'>Show All</button>
+                    <Link to={'/apps'} className='btn mt-8 text-[#FFFFFF] bg-linear-to-br from-[#632EE3] to-[#9F62F2]'>Show All</Link>
                 </div>
             </div>
         </div>

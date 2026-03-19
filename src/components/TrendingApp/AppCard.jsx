@@ -25,7 +25,7 @@ const AppCard = ({ app }) => {
                         className="rounded-4xl" />
                 </figure>
                 <div className="my-3 items-center text-sm font-bold">
-                    <h2 className="">{title}</h2>
+                    <h2 className="text-[12px] lg:text-sm">{title}</h2>
                 </div>
                 <div className="flex justify-between gap-3">
                     <button className="btn btn-sm bg-[#F1F5E8] text-[#00D390]">
