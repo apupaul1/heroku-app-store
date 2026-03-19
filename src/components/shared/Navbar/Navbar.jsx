@@ -21,10 +21,10 @@ const Navbar = () => {
                                     <NavLink to='/'>Home</NavLink>
                                 </li>
                                 <li>
-                                    <NavLink to='/bookings'>Apps</NavLink>
+                                    <NavLink to='/apps'>Apps</NavLink>
                                 </li>
                                 <li>
-                                    <NavLink to='blogs'>Installation</NavLink>
+                                    <NavLink to='/installation'>Installation</NavLink>
                                 </li>
                             </ul>
                         </div>
@@ -38,18 +38,22 @@ const Navbar = () => {
                     <div className="navbar-center hidden lg:flex">
                         <ul className='flex gap-12'>
                             <li>
-                                <NavLink className={({ isActive }) => (isActive ? 'bg-clip-text text-transparent bg-linear-to-br from-[#632EE3] to-[#9F62F2] underline-offset-2' : '')} to='/'>Home</NavLink>
+                                <NavLink className={({ isActive }) => (isActive ? 'bg-clip-text text-transparent bg-linear-to-br from-[#632EE3] to-[#9F62F2] underline-offset-2' : '')} 
+                                to='/'>Home</NavLink>
                             </li>
                             <li>
-                                <NavLink className={({ isActive }) => (isActive ? 'bg-clip-text text-transparent bg-linear-to-br from-[#632EE3] to-[#9F62F2] underline-offset-2' : '')} to='apps'>Apps</NavLink>
+                                <NavLink 
+                                className={({ isActive }) => (isActive ? 'bg-clip-text text-transparent bg-linear-to-br from-[#632EE3] to-[#9F62F2] underline-offset-2' : '')} 
+                                to='/apps'>Apps</NavLink>
                             </li>
                             <li>
-                                <NavLink className={({ isActive }) => (isActive ? 'bg-clip-text text-transparent bg-linear-to-br from-[#632EE3] to-[#9F62F2] underline-offset-2' : '')} to='installations'>Installation</NavLink>
+                                <NavLink className={({ isActive }) => (isActive ? 'bg-clip-text text-transparent bg-linear-to-br from-[#632EE3] to-[#9F62F2] underline-offset-2' : '')} 
+                                to='/installations'>Installation</NavLink>
                             </li>
                         </ul>
                     </div>
                     <div className="navbar-end">
-                        <Link to={'https://github.com/apurbadhar509'}>
+                        <Link to={'https://github.com/apupaul1'}>
                             <button className="btn btn-sm md:btn-md rounded-lg px-8 font-semibold text-[#FFFFFF] bg-linear-to-br from-[#632EE3] to-[#9F62F2] hover:bg-red-500"><FaGithub size={20} />Contribute</button></Link>
                     </div>
                 </div>

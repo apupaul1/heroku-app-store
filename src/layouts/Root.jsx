@@ -1,15 +1,20 @@
 import React from 'react';
 import Navbar from '../components/shared/Navbar/Navbar';
-import { Outlet } from 'react-router';
+import { Outlet, useNavigation } from 'react-router';
 import Footer from '../components/shared/Footer/Footer';
+import Loader from '../components/shared/Loader/Loader';
 
 const Root = () => {
+
+    const navigation = useNavigation();
+
     return (
         <div>
             <header className='sticky top-0 z-999'>
                 <Navbar></Navbar>
             </header>
-            <main className='min-h-screen'>
+            <main className=''>
+                {navigation.state === 'loading' &&<Loader></Loader>}
                 <Outlet></Outlet>
             </main>
             <footer>

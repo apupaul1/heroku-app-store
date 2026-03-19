@@ -16,8 +16,8 @@ const Rechart = ({ ratings }) => {
   })).reverse();
 
   return (
-    <div className=" overflow-x-auto">
-      <h1 className='text-2xl font-bold mb-4'>Ratings</h1>
+    <div className="overflow-x-auto">
+      <h1 className='text-lg md:text-2xl font-bold mb-4'>Ratings</h1>
       <ResponsiveContainer width="100%" height={400}>
         <ComposedChart
           layout="vertical"

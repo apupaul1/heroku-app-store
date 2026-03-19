@@ -56,30 +56,30 @@ const AppDetails = () => {
                 </figure>
 
                 <div className="flex-3">
-                    <h2 className='text-2xl font-bold text-[#001931] mb-1'>{singleApp.title}</h2>
-                    <p className='text-[#627382] text-sm font-bold'>
+                    <h2 className='text-md md:text-2xl font-bold text-[#001931] mb-1'>{singleApp.title}</h2>
+                    <p className='text-[#627382] text-[12px] md:text-sm font-bold'>
                         Developed by <span className='bg-clip-text text-transparent bg-linear-to-br from-[#632EE3] to-[#9F62F2]'>{singleApp.companyName}</span>
                     </p>
                     <hr className='w-full my-7 border border-gray-300' />
                     <div className='flex gap-16 mb-5 text-[#001931]'>
                         <div className='space-y-2'>
-                            <img className='w-8' src={download} alt="" />
-                            <p className='font-light'>Downloads</p>
-                            <h1 className='text-3xl font-bold'>{formatNumber(singleApp.downloads)}</h1>
+                            <img className='w-6 md:w-8' src={download} alt="" />
+                            <p className='font-light text-sm md:text-lg'>Downloads</p>
+                            <h1 className='text-lg md:text-3xl font-bold'>{formatNumber(singleApp.downloads)}</h1>
                         </div>
                         <div className='space-y-2'>
-                            <img className='w-8' src={rating} alt="" />
-                            <p className='font-light'>Average Ratings</p>
-                            <h1 className='text-3xl font-bold'>{singleApp.ratingAvg}</h1>
+                            <img className='w-6 md:w-8' src={rating} alt="" />
+                            <p className='font-light text-sm md:text-lg'>Average Ratings</p>
+                            <h1 className='text-lg md:text-3xl font-bold'>{singleApp.ratingAvg}</h1>
                         </div>
                         <div className='space-y-2'>
-                            <img className='w-8' src={review} alt="" />
-                            <p className='font-light'>Total Reviews</p>
-                            <h1 className='text-3xl font-bold'>{formatNumber(singleApp.reviews)}</h1>
+                            <img className='w-6 md:w-8' src={review} alt="" />
+                            <p className='font-light text-sm md:text-lg'>Total Reviews</p>
+                            <h1 className='text-lg md:text-3xl font-bold'>{formatNumber(singleApp.reviews)}</h1>
                         </div>
                     </div>
                     <button
-                        className="btn bg-[#00D390] text-[#FFFFFF] rounded-md cursor-pointer"
+                        className="btn btn-sm md:btn-md bg-[#00D390] text-[#FFFFFF] rounded-md cursor-pointer"
                         onClick={() => !installed && handleInstall()}
                     >
                         {installed ? 'Installed' : `Install Now (${singleApp.size} MB)`}
@@ -94,7 +94,7 @@ const AppDetails = () => {
             <hr className='w-full mb-8 border border-gray-300' />
             <div>
                 <h1 className='mb-3 text-xl font-semibold text-[#001931]'>Description</h1>
-                <p className='text-[#627382] text-md'>{singleApp.description}</p>
+                <p className='text-[#627382] text-[12px] md:text-md'>{singleApp.description}</p>
             </div>
         </div>
     );
