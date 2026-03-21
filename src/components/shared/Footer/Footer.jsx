@@ -1,17 +1,18 @@
 import React from 'react';
-import { NavLink } from 'react-router';
+import { Link, NavLink } from 'react-router';
 import logo from '/logo.png'
 
 const Footer = () => {
     return (
         <div>
-            <footer className="footer sm:footer-horizontal bg-[#001931] text-neutral-content p-10 px-16 flex justify-between">
-                <aside className='flex items-center'>
-                    <img className='w-10' src={logo} alt="" />
-                    <h1 className='text-lg font-semibold'>HERO.IO</h1>
-                </aside>
+            <footer className="footer footer-horizontal footer-center bg-[#001931] text-neutral-content rounded p-10">
+                <nav className="grid grid-flow-col gap-4">
+                    <Link to={'/'} className="link link-hover">About us</Link>
+                    <Link to={'/apps'} className="link link-hover">Apps</Link>
+                    <Link to={'/installations'} className="link link-hover">Installation</Link>
+                    <Link to={'/'} className="link link-hover">Terms and Conditions</Link>
+                </nav>
                 <nav>
-                    <h6 className="footer-title">Social Links</h6>
                     <div className="grid grid-flow-col gap-4">
                         <a>
                             <svg
@@ -48,7 +49,9 @@ const Footer = () => {
                         </a>
                     </div>
                 </nav>
-                
+                <aside>
+                    <p>Copyright © {new Date().getFullYear()} - All right reserved by Heroku App Store Ltd</p>
+                </aside>
             </footer>
         </div>
     );
